@@ -8,4 +8,7 @@
 
 ## References
 
+    https://www.vagrantup.com/docs/vmware/vagrant-vmware-utility.html
+    
     https://iximiuz.com/en/posts/how-to-setup-development-environment/#arkade
+
